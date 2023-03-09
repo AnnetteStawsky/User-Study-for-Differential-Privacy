@@ -1,0 +1,44 @@
+,Normal,,,,,Noisy,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Question_1,Question_2,Question_3,Question_4,Question_5,Question_1,Question_2,Question_3,Question_4,Question_5,Prediction,Noisy Prediction,Epsilon Value,Question_1,Question_2,Real_Prediction,,,,,,,,,,,,,,,,,
+117,yes,no,yes,yes,yes,yes,no,no,no,no,Persons,Animals,51,2,1,Persons,,,,,,,,,,,,,,,,,
+118,no,yes,yes,yes,yes,yes,no,no,yes,no,Existential,Persons,51,1,1,Existential,,,,,,,,,,,,,,,,,
+119,no,no,no,yes,no,no,yes,yes,yes,no,Animals,Existential,51,1,1,Existential,,,,,,,,,,,,,,,,,
+120,no,yes,no,yes,no,yes,yes,no,yes,yes,Existential,Persons,51,2,1,Existential,,,,,,,,,,,,,,,,,
+121,yes,no,yes,yes,no,yes,no,no,no,yes,Persons,Objects,51,3,3,Animals,,,,,,,,,,,,,,,,,
+122,no,yes,no,yes,no,yes,yes,yes,no,no,Existential,Animals,51,1,1,Existential,,,,,,,,,,,,,,,,,
+123,no,yes,no,yes,no,yes,yes,yes,no,no,Existential,Animals,60,3,2,Existential,,,,,,,,,,,,,,,,,
+124,no,no,no,no,no,yes,yes,no,yes,yes,Animals,Persons,60,2,1,Existential,,,,,,,,,,,,,,,,,
+125,no,yes,no,yes,no,yes,yes,no,yes,no,Existential,Persons,60,2,2,Existential,,,,,,,,,,,,,,,,,
+126,no,yes,yes,yes,no,no,no,no,yes,yes,Existential,Objects,60,2,1,Existential,,,,,,,,,,,,,,,,,
+127,yes,no,yes,yes,no,yes,no,yes,no,no,Persons,Animals,60,2,2,Animals,OLD DATA,ID,Normal,,,,,Noisy,,,,,,,,,
+128,no,yes,no,yes,yes,yes,no,no,no,yes,Existential,Objects,60,3,3,Existential,OLD DATA,69,Question_1,Question_2,Question_3,Question_4,Question_5,Question_1,Question_2,Question_3,Question_4,Question_5,Prediction,Noisy Prediction,Epsilon Value,Question_1,Question_2
+129,no,yes,no,yes,no,no,yes,no,no,no,Existential,Existential,75,1,1,Existential,OLD DATA,70,yes,no,no,yes,no,yes,yes,yes,no,no,Persons,Animals,51,3,3
+130,no,yes,yes,no,yes,no,yes,no,no,yes,Existential,Existential,75,3,1,Objects,OLD DATA,71,no,yes,no,yes,yes,no,no,yes,no,no,Existential,Animals,51,3,3
+131,no,no,yes,no,no,no,no,yes,no,no,Animals,Animals,75,2,1,Existential,OLD DATA,72,no,no,yes,no,no,yes,no,no,no,yes,Animals,Objects,51,3,2
+132,no,no,no,yes,no,no,no,no,yes,no,Animals,Animals,75,3,3,Existential,OLD DATA,73,no,no,no,no,no,yes,no,no,yes,yes,Animals,Persons,51,2,3
+133,no,yes,yes,yes,yes,no,yes,yes,yes,yes,Existential,Existential,75,2,2,Existential,OLD DATA,74,no,yes,no,yes,no,yes,yes,yes,yes,yes,Existential,Persons,51,3,2
+134,no,yes,yes,yes,yes,no,yes,yes,no,yes,Existential,Existential,75,3,2,Existential,OLD DATA,75,no,yes,no,yes,no,yes,yes,yes,no,no,Existential,Animals,51,2,3
+135,yes,no,no,no,no,yes,no,no,no,no,Animals,Animals,90,3,2,Persons,OLD DATA,76,no,no,no,no,no,yes,no,no,no,yes,Animals,Objects,60,2,2
+136,no,yes,no,yes,no,yes,yes,no,yes,no,Existential,Persons,90,1,3,Existential,OLD DATA,77,yes,no,yes,no,yes,no,no,yes,no,yes,Objects,Objects,60,3,3
+137,no,yes,no,yes,yes,no,yes,no,yes,no,Existential,Existential,90,3,1,Existential,OLD DATA,78,no,yes,no,no,no,yes,no,yes,no,yes,Existential,Objects,60,1,1
+138,no,no,no,yes,no,no,no,no,yes,no,Animals,Animals,90,3,3,Objects,OLD DATA,79,no,yes,yes,yes,yes,no,no,yes,no,yes,Existential,Objects,60,1,1
+139,no,no,yes,no,no,yes,no,yes,no,no,Animals,Animals,90,2,2,Existential,OLD DATA,80,no,yes,no,no,no,yes,no,yes,yes,yes,Existential,Persons,60,1,3
+140,no,yes,yes,yes,no,no,yes,yes,no,no,Existential,Existential,90,1,1,Persons,OLD DATA,81,yes,yes,yes,yes,yes,no,yes,yes,no,no,Persons,Existential,60,1,1
+141,no,yes,no,yes,no,no,yes,no,yes,no,Existential,Existential,100,1,1,Existential,OLD DATA,82,no,no,no,no,no,yes,no,yes,yes,no,Animals,Persons,75,1,2
+142,no,yes,yes,yes,no,no,yes,yes,yes,no,Existential,Existential,100,1,1,Persons,OLD DATA,83,no,no,yes,yes,no,yes,no,yes,yes,no,Animals,Persons,75,3,2
+143,yes,yes,no,yes,no,yes,yes,no,yes,no,Persons,Persons,100,2,1,Existential,OLD DATA,84,yes,no,yes,no,no,no,no,yes,no,yes,Animals,Objects,75,1,2
+144,no,yes,no,no,no,no,yes,no,no,yes,Existential,Existential,100,1,1,Existential,OLD DATA,85,yes,yes,no,yes,no,yes,yes,yes,no,no,Persons,Animals,75,1,1
+145,no,no,no,no,no,no,no,no,no,no,Animals,Animals,100,3,3,Existential,OLD DATA,86,no,yes,no,yes,no,yes,no,no,yes,yes,Existential,Persons,75,3,3
+146,no,yes,yes,yes,no,no,yes,yes,yes,no,Existential,Existential,100,2,2,Existential,OLD DATA,87,no,no,yes,yes,yes,no,yes,yes,yes,yes,Objects,Existential,75,1,2
+,,,,,,,,,,,,,,,,,OLD DATA,88,yes,no,yes,yes,no,yes,no,yes,yes,no,Persons,Persons,90,3,3
+,,,,,,,,,,,,,,,,,OLD DATA,89,no,yes,no,yes,no,no,yes,no,yes,no,Existential,Existential,90,3,1
+,,,,,,,,,,,,,,,,,OLD DATA,90,no,yes,no,yes,no,no,yes,no,yes,no,Existential,Existential,90,1,3
+,,,,,,,,,,,,,,,,,OLD DATA,91,no,no,yes,no,no,no,no,no,no,no,Animals,Animals,90,1,3
+,,,,,,,,,,,,,,,,,OLD DATA,92,no,yes,no,yes,no,no,yes,yes,yes,no,Existential,Existential,90,2,1
+,,,,,,,,,,,,,,,,,OLD DATA,93,no,no,no,yes,no,no,no,no,yes,yes,Animals,Objects,90,3,3
+,,,,,,,,,,,,,,,,,OLD DATA,94,no,no,no,no,no,no,no,no,no,no,Animals,Animals,100,3,1
+,,,,,,,,,,,,,,,,,OLD DATA,95,yes,no,no,no,no,yes,no,no,no,no,Animals,Animals,100,1,2
+,,,,,,,,,,,,,,,,,OLD DATA,96,no,yes,no,yes,no,no,yes,no,yes,no,Existential,Existential,100,2,1
+,,,,,,,,,,,,,,,,,OLD DATA,97,no,yes,no,no,no,no,yes,no,no,no,Existential,Existential,100,3,3
+,,,,,,,,,,,,,,,,,OLD DATA,98,no,yes,no,no,no,no,yes,no,no,no,Existential,Existential,100,3,2
+,,,,,,,,,,,,,,,,,OLD DATA,,no,yes,no,yes,yes,no,yes,no,yes,yes,Existential,Existential,100,3,1

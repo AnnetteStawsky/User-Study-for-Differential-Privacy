@@ -1,0 +1,23 @@
+,Normal,,,,,Noisy,,,,,,,,,
+ID,Question_1,Question_2,Question_3,Question_4,Question_5,Question_1,Question_2,Question_3,Question_4,Question_5,Prediction,Noisy Prediction,Epsilon Value,Question_1,Question_2
+69,yes,no,no,yes,no,yes,yes,yes,no,no,Persons,Animals,51,3,3
+70,no,yes,no,yes,yes,no,no,yes,no,no,Existential,Animals,51,3,3
+71,no,no,yes,no,no,yes,no,no,no,yes,Animals,Objects,51,3,2
+72,no,no,no,no,no,yes,no,no,yes,yes,Animals,Persons,51,2,3
+73,no,yes,no,yes,no,yes,yes,yes,yes,yes,Existential,Persons,51,3,2
+74,no,yes,no,yes,no,yes,yes,yes,no,no,Existential,Animals,51,2,3
+75,no,no,no,no,no,yes,no,no,no,yes,Animals,Objects,60,2,2
+76,yes,no,yes,no,yes,no,no,yes,no,yes,Objects,Objects,60,3,3
+77,no,yes,no,no,no,yes,no,yes,no,yes,Existential,Objects,60,1,1
+78,no,yes,yes,yes,yes,no,no,yes,no,yes,Existential,Objects,60,1,1
+79,no,yes,no,no,no,yes,no,yes,yes,yes,Existential,Persons,60,1,3
+80,yes,yes,yes,yes,yes,no,yes,yes,no,no,Persons,Existential,60,1,1
+81,no,no,no,no,no,yes,no,yes,yes,no,Animals,Persons,75,1,2
+82,no,no,yes,yes,no,yes,no,yes,yes,no,Animals,Persons,75,3,2
+83,yes,no,yes,no,no,no,no,yes,no,yes,Animals,Objects,75,1,2
+84,yes,yes,no,yes,no,yes,yes,yes,no,no,Persons,Animals,75,1,1
+85,no,yes,no,yes,no,yes,no,no,yes,yes,Existential,Persons,75,3,3
+86,no,no,yes,yes,yes,no,yes,yes,yes,yes,Objects,Existential,75,1,2
+87,yes,no,yes,yes,no,yes,no,yes,yes,no,Persons,Persons,90,3,3
+88,no,yes,no,yes,no,no,yes,no,yes,no,Existential,Existential,90,3,1
+89,no,yes,no,yes,no,no,yes,no,yes,no,Existential,Existential,90,1,3
